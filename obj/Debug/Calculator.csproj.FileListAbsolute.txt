@@ -1,0 +1,32 @@
+C:\Users\Dell\Downloads\Calculator-master\bin\Debug\Calculator.exe.config
+C:\Users\Dell\Downloads\Calculator-master\bin\Debug\Calculator.exe
+C:\Users\Dell\Downloads\Calculator-master\bin\Debug\Calculator.pdb
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.Form1.resources
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.exe
+C:\Users\Dell\Downloads\Calculator-master\obj\Debug\Calculator.pdb
+C:\Users\vinbh\OneDrive\Desktop\programming project\bin\Debug\Calculator.exe.config
+C:\Users\vinbh\OneDrive\Desktop\programming project\bin\Debug\Calculator.exe
+C:\Users\vinbh\OneDrive\Desktop\programming project\bin\Debug\Calculator.pdb
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.Form1.resources
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.exe
+C:\Users\vinbh\OneDrive\Desktop\programming project\obj\Debug\Calculator.pdb
+C:\Users\z004E29H\Downloads\programming project\bin\Debug\Calculator.exe.config
+C:\Users\z004E29H\Downloads\programming project\bin\Debug\Calculator.exe
+C:\Users\z004E29H\Downloads\programming project\bin\Debug\Calculator.pdb
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.Form1.resources
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.exe
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.pdb
+C:\Users\z004E29H\Downloads\programming project\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
